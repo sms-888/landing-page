@@ -130,3 +130,23 @@ a {
     text-align: center;
 }
 
+/* -------------------- Section 3 --------------------------- */
+.section3 {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 220px;
+}
+
+.sec3-para1 {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.sec3-para2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1F2937;
+    align-self: flex-end;
+}
