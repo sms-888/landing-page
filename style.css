@@ -102,11 +102,31 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 35px;
 }
 
 .sec2-header {
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
+}
+
+.sec2-image-list {
+    gap: 35px;
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
+}
+
+.sec2image div {
+    border: 3px solid #3882F6;
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+}
+
+.sec2image p {
+    width: 150px;
+    text-align: center;
 }
 
